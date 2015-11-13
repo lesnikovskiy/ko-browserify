@@ -6,4 +6,4 @@ It is based on [Steve Sanderson presentation](https://medium.com/@gregbabula/web
 To run the app 
 * first run ```npm install``` command
 * then ```gulp``` or ```gulp build``` to build the source code into bundle.js
-* after all ```node server.js``` to launch local server that is supposed to be accessible at address http://localhost:3000
+* after all ```node server.js``` to launch local server that is supposed to be accessible at address [http://localhost:3000](http://localhost:3000)
