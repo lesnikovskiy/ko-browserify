@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lesnikovskiy/knockout_browserify.git"
+    "url": "git+https://github.com/lesnikovskiy/ko-browserify.git"
   },
   "author": "Ruslan Lesnikovskiy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lesnikovskiy/knockout_browserify/issues"
+    "url": "https://github.com/lesnikovskiy/ko-browserify/issues"
   },
-  "homepage": "https://github.com/lesnikovskiy/knockout_browserify#readme"
+  "homepage": "https://github.com/lesnikovskiy/ko-browserify#readme"
 }
