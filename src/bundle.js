@@ -7197,7 +7197,7 @@ exports.default = new Router({
 });
 
 },{"crossroads":1,"hasher":3,"knockout":5}],8:[function(require,module,exports){
-module.exports = "<h2>About</h2>\n\n<p>This component has no viewmodel. It's just an HTML template.</p>\n";
+module.exports = "<h2>About</h2>\r\n\r\n<p>This component has no viewmodel. It's just an HTML template.</p>\r\n";
 
 },{}],9:[function(require,module,exports){
 module.exports = "﻿<div>\r\n\t<form>\r\n\t\t<div class=\"form-group\">\r\n\t\t\t<h3>Discount widget demo for <span data-bind=\"text: logo\"></span></h3>\r\n\t\t</div>\r\n\t\t<div class=\"form-group\">\r\n\t\t\t<label class=\"control-label\" for=\"netPriceField\">Price:</label>\r\n\t\t\t<div class=\"input-group\">\r\n\t\t\t\t<span class=\"input-group-addon\">\r\n\t\t\t\t\t<i class=\"glyphicon glyphicon-euro\"></i>\r\n\t\t\t\t</span>\r\n\t\t\t\t<input type=\"number\" id=\"netPriceField\" class=\"form-control\" data-bind=\"value: netPrice\" />\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"form-group\">\r\n\t\t\t<label class=\"control-label\" for=\"discountField\">Discount:</label>\r\n\t\t\t<div class=\"input-group\">\r\n\t\t\t\t<input type=\"number\" id=\"discountField\" class=\"form-control\" data-bind=\"value: discountPercent\" />\r\n\t\t\t\t<span class=\"input-group-addon\">%</span>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"form-group\">\r\n\t\t\t<button class=\"btn btn-default\" data-bind=\"click: calculate\">\r\n\t\t\t\tCalculate\r\n\t\t\t</button>\r\n\t\t</div>\r\n\t\t<div class=\"form-group\">\r\n\t\t\t<span data-bind=\"text: result\"></span>\r\n\t\t</div>\r\n\t</form>\r\n</div>";
@@ -7286,7 +7286,7 @@ exports.default = {
 };
 
 },{"./hello-world.html":11,"knockout":5}],13:[function(require,module,exports){
-module.exports = "<h2>Home</h2>\n\n<p data-bind='text: message'></p>\n\n<button data-bind='click: doSomething'>Click me</button>\n";
+module.exports = "<h2>Home</h2>\r\n\r\n<p data-bind='text: message'></p>\r\n\r\n<button data-bind='click: doSomething'>Click me</button>\r\n";
 
 },{}],14:[function(require,module,exports){
 "use strict";
