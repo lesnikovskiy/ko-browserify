@@ -1,0 +1,19 @@
+<h1>Sport Items</h1>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Weight</th>
+			<th>Date</th>
+			<th>Training</th>
+			<th>Walking</th>
+		</tr>
+	</thead>
+	<tbody data-bind="foreach: sportList">
+		<tr>
+			<td data-bind="text: weight"></td>
+			<td data-bind="text: date"></td>
+			<td data-bind="text: training"></td>
+			<td data-bind="text: walking"></td>
+		</tr>
+	</tbody>
+</table>

@@ -28,6 +28,7 @@ export default new Router({
 		{ url: '',          params: { page: 'home-page' } },
 		{ url: 'hello', 	params: { page: 'hello-world', name: 'Frank Wiermann'} },
 		{ url: 'discount',  params: { page: 'discount-widget', logo: 'E-Shop' } },
+		{ url: 'sports-list', params: { page: 'sports-list' } },
 		{ url: 'about',  	params: { page: 'about-page' } }
 	]
 });
